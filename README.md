@@ -20,6 +20,9 @@ The data includes information such as demographics, language skills, mental heal
 
 4. Run queries.sql to execute your queries and see results.
 
+## Software Used
+- MySQL Workbench — for importing CSV and running SQL queries
+
 ## Notes
 - The `inter_dom` column indicates whether a student is international (`Inter`) or domestic (`Dom`).
 - Columns like `todep`, `tosc`, `toas` are survey scores used for analysis.
