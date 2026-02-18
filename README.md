@@ -1,4 +1,4 @@
-Analysing Students' Mental Health
+### Analysing Students' Mental Health
 
 ## Description
 This project contains survey data from students and SQL queries to analyze the data. 
